@@ -42,7 +42,7 @@
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-A Oracle Academy é um programa educacional filantrópico da Oracle, que tem como objetivo promover maior formação tecnológica para pessoas do mundo inteiro. A plataforma oferece uma grande diversidade de recursos de ensino e aprendizado gratuitamente para instituições e professores, a fim de melhor desenvolver alunos com habilidades que sejam relevantes para a sua carreira e o mercado de trabalho. 
+A Oracle Academy é um programa educacional filantrópico da Oracle, que tem como objetivo promover maior formação tecnológica para pessoas do mundo inteiro. A plataforma oferece uma grande diversidade de recursos de ensino e aprendizado gratuitamente para instituições e professores, a fim de melhor desenvolver alunos com habilidades que sejam relevantes para a sua carreira e o mercado de trabalho. \
 Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos pontos positivos, que podem ser explorados, e pontos negativos, que devem ser corrigidos ou monitorados. 
 
 1. Na categoria de **"Forças"**, temos: 
