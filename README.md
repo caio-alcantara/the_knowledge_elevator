@@ -23,12 +23,12 @@
 ### Orientador(a) 
 - <a href="https://www.linkedin.com/in/juliastateri/">Julia Stateri</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">André Godoi</a>
+- <a href="https://www.linkedin.com/in/andre-godoi-chiovato-83730228/">André Godoi</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Bruna Mayer</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Diogo Martins Gonçalves de Morais</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Henrique Mohallem Paiva </a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Kizzy Terra</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Renato Penha</a>
+- <a href="https://www.linkedin.com/in/henrique-mohallem-paiva-6854b460/">Henrique Mohallem Paiva </a>
+- <a href="https://www.linkedin.com/in/kizzyterra/">Kizzy Terra</a> 
+- <a href="https://www.linkedin.com/in/renato-penha/">Renato Penha</a>
 
 ## 📜 Descrição
 
