@@ -23,12 +23,12 @@
 ### Orientador(a) 
 - <a href="https://www.linkedin.com/in/juliastateri/">Julia Stateri</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">André Godoi</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Bruna Mayer</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Diogo Martins Gonçalves de Morais</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Henrique Mohallem Paiva </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Kizzy Terra</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Renato Penha</a>
 
 ## 📜 Descrição
 
