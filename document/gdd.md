@@ -45,18 +45,18 @@
 A Oracle Academy é um programa educacional filantrópico da Oracle, que tem como objetivo promover maior formação tecnológica para pessoas do mundo inteiro. A plataforma oferece uma grande diversidade de recursos de ensino e aprendizado gratuitamente para instituições e professores, a fim de melhor desenvolver alunos com habilidades que sejam relevantes para a sua carreira e o mercado de trabalho. 
 Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos pontos positivos, que podem ser explorados, e pontos negativos, que devem ser corrigidos ou monitorados. 
 
-Na categoria de "Forças", temos: 
+1. Na categoria de "Forças", temos: 
 * A Oracle Academy oferece uma certificação que é reconhecida no mundo todo e possui um grande peso, uma vez que é emitida por uma das maiores empresas de tecnologia do mundo.
 * A plataforma possui um currículo que foca em tecnologias atuais, então nada de estudar assuntos defasados.
 * A Oracle Academy possui um acordo com o Ministério da Educação, o que certamente não só facilita mas também alavanca a disseminação da plataforma no Brasil.
 * O uso de recursos da Oracle, uma gigante do setor de tecnologia, que possui recursos avantajados para investir na plataforma.
-Como "Fraquezas", foi possível identificar:
+2. Como "Fraquezas", foi possível identificar:
 * Hoje, um dos maiores problemas da plataforma é a dificuldade em manter os usuários engajados e fazer com que eles utilizem todos os recursos disponíveis. 
 * Além disso, o fato de que os materiais de estudo estão disponíveis apenas em inglês é um grande dificultador para aqueles que desejam aprender tecnologia mas não falam o idioma.
-No campo de "Oportunidades", notamos:
+3. No campo de "Oportunidades", notamos:
 * A demanda por educação online e o estudo por tecnologia vêm crescendo muito desde a pandemia.
 * Existem grandes oportunidades de se realizarem parcerias com diversas instituições de ensino, a fim de que a plataforma seja usada diretamente nas escolas parceiras.
-Em relação às ameaças, destacamos:
+4. Em relação às ameaças, destacamos:
 * A falta de tecnologia nas escolas, que, no Brasil, tem sido um dos principais limitantes quando se fala em ensinar tecnologia para alunos de ensino fundamental/médio
 * Outras fortes concorrentes no mercado, tais como a Microsoft Imagine Academy e a IBM Skills Academy, podem representar ameaças pois são encaradas como competidores diretos de mercado.
     
