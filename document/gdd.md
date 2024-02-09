@@ -47,7 +47,7 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
 
 1. Na categoria de **"Forças"**, temos: 
 * A Oracle Academy oferece uma certificação que é reconhecida no mundo todo e possui um grande peso, uma vez que é emitida por uma das maiores empresas de tecnologia do mundo.
-* A plataforma possui um currículo que foca em tecnologias atuais, então nada de estudar assuntos defasados.
+* A plataforma possui um currículo que foca em tecnologias atuais, evitando o estudo de assuntos defasados.
 * A Oracle Academy possui um acordo com o Ministério da Educação, o que certamente não só facilita mas também alavanca a disseminação da plataforma no Brasil.
 * O uso de recursos da Oracle, uma gigante do setor de tecnologia, que possui recursos avantajados para investir na plataforma.
 2. Como **"Fraquezas"**, foi possível identificar:
