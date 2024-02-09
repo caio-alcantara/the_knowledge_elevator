@@ -54,7 +54,7 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
 * Hoje, um dos maiores problemas da plataforma é a dificuldade em manter os usuários engajados e fazer com que eles utilizem todos os recursos disponíveis. 
 * Além disso, o fato de que os materiais de estudo estão disponíveis apenas em inglês é um grande dificultador para aqueles que desejam aprender tecnologia mas não falam o idioma.
 3. No campo de **"Oportunidades"**, notamos:
-* A demanda por educação online e o estudo por tecnologia vêm crescendo muito desde a pandemia.
+* A demanda por educação online e o estudo por tecnologia vêm crescendo muito desde a pandemia de Covid-19.
 * Existem grandes oportunidades de se realizarem parcerias com diversas instituições de ensino, a fim de que a plataforma seja usada diretamente nas escolas parceiras.
 4. Em relação às **"Ameaças"**, destacamos:
 * A falta de tecnologia nas escolas, que, no Brasil, tem sido um dos principais limitantes quando se fala em ensinar tecnologia para alunos de ensino fundamental/médio
