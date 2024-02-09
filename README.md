@@ -14,8 +14,8 @@
 - <a href="https://www.linkedin.com/in/caio-de-alcantara-santos-a020921b4/">Caio de Alcantara Santos</a>
 - <a href="https://www.linkedin.com/in/cec%C3%ADlia-galv%C3%A3o/">Cecília Beatriz Melo Galvão</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Giacomo Zema Matizonkas</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Ian Pereira Simão</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Kethlen Martins da Silva</a>
+- <a href="https://www.linkedin.com/in/ian-pereira-simao/">Ian Pereira Simão</a> 
+- <a href="https://www.linkedin.com/in/kethlen-martins-040332221/">Kethlen Martins da Silva</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nataly de Souza Cunha</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Maciel Flor</a>
 
