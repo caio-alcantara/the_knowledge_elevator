@@ -16,7 +16,7 @@
 - <a href="https://www.linkedin.com/in/victorbarq/">Giacomo Zema Matizonkas</a> 
 - <a href="https://www.linkedin.com/in/ian-pereira-simao/">Ian Pereira Simão</a> 
 - <a href="https://www.linkedin.com/in/kethlen-martins-040332221/">Kethlen Martins da Silva</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nataly de Souza Cunha</a> 
+- <a href="https://www.linkedin.com/in/nataly-cunha">Nataly de Souza Cunha</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Maciel Flor</a>
 
 ## 👩‍🏫 Professores:
