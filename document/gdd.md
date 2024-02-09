@@ -64,9 +64,6 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
 * A falta de tecnologia nas escolas, principalmente aquelas do setor público, pode impedir ou dificultar que a Oracle Academy adentre estes ambientes, uma vez que a plataforma necessita de infrasestruturas básicas, como acesso à internet, que nem sempre estão disponíveis nessas escolas. 
 * Outras fortes concorrentes no mercado, tais como a Microsoft Imagine Academy e a IBM Skills Academy, podem representar ameaças pois são encaradas como competidores diretos de mercado.
     
-
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
-
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
 *Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
