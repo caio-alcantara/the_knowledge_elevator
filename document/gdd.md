@@ -66,12 +66,86 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
     
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um  <span style="color: green">**programa educacional gratuito** </span>. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui <span style="color: green">**dificuldades em compreender a abrangência dos recursos disponíveis**</span>, o que se reflete na baixa do engajamento desses usuários.\
+A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um **programa educacional gratuito**. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui **dificuldades em compreender a abrangência dos recursos disponíveis**, o que se reflete na baixa do engajamento desses usuários.\
 Assim, para a resolução do impasse, dados foram coletados provenientes de documentos, como o Termo de Abertura de Projeto do Inteli (TAPI), o Guia de Estilo de Marca e diversos manuais de utilização da plataforma. Ademais, informações foram tiradas do próprio site da Oracle e de rodas de conversação com representantes legais da organização, ocorrendo, consequentemente, a dissolução de questões.
-Á vista disso, com a utilização dos dados, a solução será desenvolvida como uma  <span style="color: green">**experiência gamificada** </span> para web, na qual professores possam  <span style="color: green">**conhecer todos os produtos e serviços disponibilizados** </span> na Oracle Academy, de forma intuitiva e atraente, a fim de aprimorar a percepção de valor da plataforma e o engajamento de potenciais clientes.\
-Dessa forma, o serious game deverá ser utilizado como uma ferramenta para  <span style="color: green">**atrair a atenção e o interesse dos professores** </span> na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.\
-Isso posto, o objetivo do serious game é que ocorra o  <span style="color: green">**aumento no engajamento e satisfação** </span> dos professores em relação ao programa da Oracle Academy, contribuindo para a  <span style="color: green">**utilização efetiva das ferramentas da plataforma** </span> e para a chegada da mesma em outras instituições de ensino e docentes.\
+Á vista disso, com a utilização dos dados, a solução será desenvolvida como uma **experiência gamificada** para web, na qual professores possam **conhecer todos os produtos e serviços disponibilizados** na Oracle Academy, de forma intuitiva e atraente, a fim de aprimorar a percepção de valor da plataforma e o engajamento de potenciais clientes.\
+Dessa forma, o serious game deverá ser utilizado como uma ferramenta para **atrair a atenção e o interesse dos professores** na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.\
+Isso posto, o objetivo do serious game é que ocorra o **aumento no engajamento e satisfação** dos professores em relação ao programa da Oracle Academy, contribuindo para a **utilização efetiva das ferramentas da plataforma** e para a chegada da mesma em outras instituições de ensino e docentes.\
 Logo, o critério de sucesso será feito através do controle de utilização dos usuários, ou seja, a medida que será utilizada para avaliação será o engajamento dos professores em relação ao game criado e, por conseguinte, à plataforma da Oracle Academy.
+<img src="../assets/logointeli.png">
+
+
+# GDD - Game Design Document - Módulo 1 - Inteli
+
+**<span style="color:green">Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final</span>**
+
+## Nome do Grupo
+
+#### Nomes dos integrantes do grupo
+
+
+
+## Sumário
+
+[1. Introdução](#c1)
+
+[2. Visão Geral do Jogo](#c2)
+
+[3. Game Design](#c3)
+
+[4. Desenvolvimento do jogo](#c4)
+
+[5. Casos de Teste](#c5)
+
+[6. Conclusões e trabalhos futuros](#c6)
+
+[7. Referências](#c7)
+
+[Anexos](#c8)
+
+<br>
+
+
+# <a name="c1"></a>1. Introdução (sprints 1 e 4)
+
+## 1.1. Escopo do Projeto
+
+### 1.1.1. Contexto da indústria (sprints 1 e 4)
+
+<span style="color:green">*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*</span>
+
+### 1.1.2. Análise SWOT (sprints 1 e 4)
+
+<span style="color:green">A Oracle Academy é um programa educacional filantrópico da Oracle, que tem como objetivo promover maior formação tecnológica para pessoas do mundo inteiro. A plataforma oferece uma grande diversidade de recursos de ensino e aprendizado gratuitamente para instituições e professores, a fim de melhor desenvolver alunos com habilidades que sejam relevantes para a sua carreira e o mercado de trabalho.</span> \
+<span style="color:green">A Análise SWOT é uma ferramenta que busca realizar um planejamento estratégico onde empresas identificam quais são as suas forças, fraquezas, oportunidades e ameaças, buscando entender os diversos aspectos internos (que podem ser controlados) e aspectos externos (que independem da empresa) que podem impactar o negócio.</span> \
+<span style="color:green">Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos pontos positivos, que podem ser explorados, e pontos negativos, que devem ser corrigidos ou monitorados.</span>
+
+<img src="../assets/SwotAnalysis.png"> 
+
+1. Na categoria de **<span style="color:green">"Forças"</span>**, temos: 
+* <span style="color:green">A Oracle Academy oferece uma certificação oferecida ao concluir cursos e atividades que é reconhecida no mundo todo e possui um grande peso, uma vez que é emitida por uma das maiores empresas de tecnologia do mundo.</span>
+* <span style="color:green">A plataforma possui um currículo que foca em tecnologias atuais, evitando o estudo de assuntos defasados.</span>
+* <span style="color:green">A Oracle Academy possui um acordo com o Ministério da Educação, o que certamente não só facilita mas também alavanca a disseminação da plataforma no Brasil. Além disso, a plataforma se faz presente em cursos de pós-graduação que têm caráter profissionalizante.</span>
+* <span style="color:green">O uso de recursos da Oracle, uma gigante do setor de tecnologia, que possui recursos avantajados para investir na plataforma.</span>
+2. Como **<span style="color:green">"Fraquezas"</span>**, foi possível identificar:
+* <span style="color:green">Hoje, um dos maiores problemas da plataforma é a dificuldade em manter os usuários engajados e fazer com que eles utilizem todos os recursos disponíveis.</span>
+* <span style="color:green">Além disso, o fato de que os materiais de estudo estão disponíveis apenas em inglês é um grande dificultador para aqueles que desejam aprender tecnologia mas não falam o idioma.</span>
+* <span style="color:green">Os aspectos visuais da plataforma, se comparados com as plataformas de grandes concorrentes, como Amazon, Microsoft e IBM não se destacam. Além disso, a experiência do usuário na Oracle Academy por vezes se mostra frustrante, o que motiva consumidores e migrarem para outras plataformas.</span>
+3. No campo de **<span style="color:green">"Oportunidades"</span>**, notamos:
+* <span style="color:green">A demanda por educação online e o estudo por tecnologia vêm crescendo muito desde a pandemia de Covid-19.</span>
+* <span style="color:green">Existem grandes oportunidades de se realizarem parcerias com diversas instituições de ensino, a fim de que a plataforma seja usada diretamente nas escolas parceiras.</span>
+4. Em relação às **<span style="color:green">"Ameaças"</span>**, destacamos:
+* <span style="color:green">A falta de tecnologia nas escolas, principalmente aquelas do setor público, pode impedir ou dificultar que a Oracle Academy adentre estes ambientes, uma vez que a plataforma necessita de infrasestruturas básicas, como acesso à internet, que nem sempre estão disponíveis nessas escolas.</span>
+* <span style="color:green">Outras fortes concorrentes no mercado, tais como a Microsoft Imagine Academy e a IBM Skills Academy, podem representar ameaças pois são encaradas como competidores diretos de mercado.</span>
+    
+### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
+
+<span style="color:green">A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um **programa educacional gratuito**. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui **dificuldades em compreender a abrangência dos recursos disponíveis**, o que se reflete na baixa do engajamento desses usuários.</span>\
+<span style="color:green">Assim, para a resolução do impasse, dados foram coletados provenientes de documentos, como o Termo de Abertura de Projeto do Inteli (TAPI), o Guia de Estilo de Marca e diversos manuais de utilização da plataforma. Ademais, informações foram tiradas do próprio site da Oracle e de rodas de conversação com representantes legais da organização, ocorrendo, consequentemente, a dissolução de questões.</span>\
+<span style="color:green">Á vista disso, com a utilização dos dados, a solução será desenvolvida como uma **experiência gamificada** para web, na qual professores possam **conhecer todos os produtos e serviços disponibilizados** na Oracle Academy, de forma intuitiva e atraente, a fim de aprimorar a percepção de valor da plataforma e o engajamento de potenciais clientes.</span>\
+<span style="color:green">Dessa forma, o serious game deverá ser utilizado como uma ferramenta para **atrair a atenção e o interesse dos professores** na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.</span>\
+<span style="color:green">Isso posto, o objetivo do serious game é que ocorra o **aumento no engajamento e satisfação** dos professores em relação ao programa da Oracle Academy, contribuindo para a **utilização efetiva das ferramentas da plataforma** e para a chegada da mesma em outras instituições de ensino e docentes.</span>\
+<span style="color:green">Logo, o critério de sucesso será feito através do controle de utilização dos usuários, ou seja, a medida que será utilizada para avaliação será o engajamento dos professores em relação ao game criado e, por conseguinte, à plataforma da Oracle Academy.</span>
 
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
