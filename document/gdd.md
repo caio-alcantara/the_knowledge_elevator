@@ -66,7 +66,13 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
     
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um **programa educacional gratuito**. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui **dificuldades em compreender a abrangência dos recursos disponíveis**, o que se reflete na baixa do engajamento desses usuários.\
+Assim, para a resolução do impasse, dados foram coletados provenientes de documentos, como o Termo de Abertura de Projeto do Inteli (TAPI), o Guia de Estilo de Marca e diversos manuais de utilização da plataforma. Ademais, informações foram tiradas do próprio site da Oracle e de rodas de conversação com representantes legais da organização, ocorrendo, consequentemente, a dissolução de questões.
+Á vista disso, com a utilização dos dados, a solução será desenvolvida como uma **experiência gamificada** para web, na qual professores possam **conhecer todos os produtos e serviços disponibilizados** na Oracle Academy, de forma intuitiva e atraente, a fim de aprimorar a percepção de valor da plataforma e o engajamento de potenciais clientes.\
+Dessa forma, o serious game deverá ser utilizado como uma ferramenta para **atrair a atenção e o interesse dos professores** na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.\
+Isso posto, o objetivo do serious game é que ocorra o **aumento no engajamento e satisfação** dos professores em relação ao programa da Oracle Academy, contribuindo para a **utilização efetiva das ferramentas da plataforma** e para a chegada da mesma em outras instituições de ensino e docentes.\
+Logo, o critério de sucesso será feito através do controle de utilização dos usuários, ou seja, a medida que será utilizada para avaliação será o engajamento dos professores em relação ao game criado e, por conseguinte, à plataforma da Oracle Academy.
+
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 
