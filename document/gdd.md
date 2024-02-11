@@ -85,13 +85,15 @@ Logo, o critério de sucesso será feito através do controle de utilização do
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
+<img src="../assets/RiskAnalysis"> 
+
 A partir do contexto atual do projeto depreende-se que as possibilidades tendo em vista a progressão de impacto e probababilidades se dá da seguinte forma:
 Tabela de Níveis:
 
 Impacto: Trivial, Pequeno, Moderado, Grande e Enorme.
 Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
 
-    #Ameaças
+   #Ameaças
 - Falta de acesso à plataforma para estudo do projeto.
   • Probabilidade: Bastante provável
   • Impacto: Trivial
@@ -117,7 +119,7 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Moderado
   • Justificativa: Tendo em vista a falta de conhecimento dos integrantes do grupo em relação ao código por trás da plataforma, fica clara a preocupação quanto à integração do jogo com o website.
 
-    #Oportunidades
+   #Oportunidades
 
 - Estética compatível com a expectativa da marca.
   • Probabilidade: Provável
