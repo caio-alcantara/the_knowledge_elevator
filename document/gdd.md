@@ -6,10 +6,15 @@
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
 
 ## Nome do Grupo
-
+The Building
 #### Nomes dos integrantes do grupo
-
-
+- <a href="https://www.linkedin.com/in/caio-de-alcantara-santos-a020921b4/">Caio de Alcantara Santos</a>
+- <a href="https://www.linkedin.com/in/cec%C3%ADlia-galv%C3%A3o/">Cecília Beatriz Melo Galvão</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Giacomo Zema Matizonkas</a> 
+- <a href="https://www.linkedin.com/in/ian-pereira-simao/">Ian Pereira Simão</a> 
+- <a href="https://www.linkedin.com/in/kethlen-martins-040332221/">Kethlen Martins da Silva</a>
+- <a href="https://www.linkedin.com/in/nataly-cunha">Nataly de Souza Cunha</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Maciel Flor</a>
 
 ## Sumário
 
@@ -69,7 +74,7 @@ Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos
 A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um programa educacional gratuito. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui dificuldades em compreender a abrangência dos recursos disponíveis, o que se reflete na baixa do engajamento desses usuários.\
 Assim, para a resolução do impasse, dados foram coletados provenientes de documentos, como o Termo de Abertura de Projeto do Inteli (TAPI), o Guia de Estilo de Marca e diversos manuais de utilização da plataforma. Ademais, informações foram tiradas do próprio site da Oracle e de rodas de conversação com representantes legais da organização, ocorrendo, consequentemente, a dissolução de questões.
 Á vista disso, com a utilização dos dados, a solução será desenvolvida como uma experiência gamificada para web, na qual professores possam conhecer todos os produtos e serviços disponibilizados na Oracle Academy, de forma intuitiva e atraente, a fim de aprimorar a percepção de valor da plataforma e o engajamento de potenciais clientes.\
-Dessa forma, o serious game deverá ser utilizado como uma ferramenta para atrair a atenção e o interesse dos professores na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.\
+Dessa forma, o "serious game" deverá ser utilizado como uma ferramenta para atrair a atenção e o interesse dos professores na plataforma da Oracle Academy, atuando com o objetivo de facilitar a integração do docente com a plataforma, por meio de pequenas fases que irão simular a experiência real do usuário, considerando a sua grande gama de recursos.\
 Isso posto, o objetivo do serious game é que ocorra o aumento no engajamento e satisfação dos professores em relação ao programa da Oracle Academy, contribuindo para a utilização efetiva das ferramentas da plataforma e para a chegada da mesma em outras instituições de ensino e docentes.\
 Logo, o critério de sucesso será feito através do controle de utilização dos usuários, ou seja, a medida que será utilizada para avaliação será o engajamento dos professores em relação ao game criado e, por conseguinte, à plataforma da Oracle Academy.
 
@@ -80,7 +85,64 @@ Logo, o critério de sucesso será feito através do controle de utilização do
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+A partir do contexto atual do projeto depreende-se que as possibilidades tendo em vista a progressão de impacto e probababilidades se dá da seguinte forma:
+Tabela de Níveis:
+
+Impacto: Trivial, Pequeno, Moderado, Grande e Enorme.
+Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
+
+    #Ameaças
+- Falta de acesso à plataforma para estudo do projeto.
+  • Probabilidade: Bastante provável
+  • Impacto: Trivial
+  • Justificativa: Nós como alunos e desenvolvedores do projeto não teremos acesso à plataforma, por outro lado, haverá um vídeo explicativo das ferramentas oferecidas dentro do site.
+  
+- Baixa otimização.
+  • Probabilidade: Moderado
+  • Impacto: Moderado
+  • Justificativa: Por se tratar de um tempo escasso de desenvolvimento de game, o código pode conter trechos redundantes e que poderiam ser escritos de forma mais simplificada.
+  
+- Design desalinhado com a Redwood.
+  • Probabilidade: Improvável
+  • Impacto: Grande
+  • Justificativa: Nosso grupo acredita na importância de seguir a identidade da marca, por isso este desalinhamento é pouquíssimo provável.
+  
+- Baixa assistência da Marca quanto ao projeto.
+  • Probabilidade: Raro
+  • Impacto: Grande
+  • Justificativa: Tratando-se de um projeto com parceiros e levando em conta já a atenção dada ao projeto, acreditamos que seja raríssima a possibilidade deste acontecimento, caso contrário, teria Grande impacto no desenvolvimento.
+
+- Integração ruim com a plataforma.
+  • Probabilidade: Moderado
+  • Impacto: Moderado
+  • Justificativa: Tendo em vista a falta de conhecimento dos integrantes do grupo em relação ao código por trás da plataforma, fica clara a preocupação quanto à integração do jogo com o website.
+
+    #Oportunidades
+
+- Estética compatível com a expectativa da marca.
+  • Probabilidade: Provável
+  • Impacto: Grande
+  • Justificativa: Como citado anteriormente, nosso grupo tem grande preocupação com as regras de identidade visual da marca, e acreditamos ser fundamental para a entrega do projeto.
+  
+- Autorização de uso de música pela marca e autor.
+  • Probabilidade: Moderado
+  • Impacto: Pequeno
+  • Justificativa: Ao fazer algumas pesquisas deparamo-nos com uma opção valiosa de trilha sonora para o game, acreditamos que ela entregará a sensação desejada por nós ao usuário (low-profile, Minimalista e confortável).
+  
+- Acessibilidade Etária.
+  • Probabilidade: Provável
+  • Impacto: Enorme
+  • Justificativa: Dada a amplitude de faixas etárias que utilizaram o "game" crê-se que seja de enorme importância que tenhamos ferramentas que tornem simples a jornada do usuário independente de sua idade.
+  
+- Dinâmica de jogo engajadora.
+  • Probabilidade: Moderado
+  • Impacto: Enorme
+  • Justificativa: O público alvo do "game" tem características muito amplas, portanto, fica dificil definir uma estética e uma abordagem a se focar no desenvolvimento para que haja engajamento de todos os usuários.
+    
+- Facilidade de acesso para professores.
+  • Probabilidade: Provável
+  • Impacto: Enorme
+  • Justificativa: Tendo em vista que este é o objetivo principal do projeto, acreditamos que criar um jogo de aprendizado intuitivo e que faça com que o usuário memorize os processo de maneira dinâmica seja nossa prioridade.
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
