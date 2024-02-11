@@ -5,8 +5,9 @@
 
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
 
-## Nome do Grupo
-The Building
+## The Building
+### The Knowledge Elevator
+
 #### Nomes dos integrantes do grupo
 - <a href="https://www.linkedin.com/in/caio-de-alcantara-santos-a020921b4/">Caio de Alcantara Santos</a>
 - <a href="https://www.linkedin.com/in/cec%C3%ADlia-galv%C3%A3o/">Cecília Beatriz Melo Galvão</a>
@@ -43,7 +44,8 @@ The Building
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
+A **Oracle Academy** é um programa desenvolvido pela Oracle, que tem como objetivo **fornecer educação na área de tecnologia**, de maneira gratuita, para alunos e instituições do **mundo inteiro**, fazendo isso por meio do oferecimento de cursos, workshops e materiais de apoio disponibilizados aos professores, que então passam este conteúdo para os seus alunos. O programa Oracle Academy está inserido em um **mercado focado em educação**, que é dinâmico, sempre em constante evolução e com **fortes concorrentes**, tais como a Microsoft Imagine Academy, IBM Skills, Google for Education e AWS Academy. \
+Em suma, a Oracle Academy é uma das **principais players** quando se fala de programas de educação em tecnologia gratuitos e online, abrangendo um **mercado verdadeiramente mundial**, estando presente em diversos países e realizando **parcerias com instituições e oraganizações** do mundo inteiro. 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
