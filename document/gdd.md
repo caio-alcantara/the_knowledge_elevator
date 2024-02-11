@@ -85,7 +85,7 @@ Logo, o critério de sucesso será feito através do controle de utilização do
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
-<img src="../assets/RiskAnalysis"> 
+<img src="../assets/RiskAnalysis.png"> 
 
 A partir do contexto atual do projeto depreende-se que as possibilidades tendo em vista a progressão de impacto e probababilidades se dá da seguinte forma:
 Tabela de Níveis:
