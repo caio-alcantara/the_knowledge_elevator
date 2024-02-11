@@ -93,6 +93,7 @@ A partir do contexto atual do projeto depreende-se que as possibilidades tendo e
 Tabela de Níveis:
 
 Impacto: Trivial, Pequeno, Moderado, Grande e Enorme.
+
 Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
 
    #Ameaças
