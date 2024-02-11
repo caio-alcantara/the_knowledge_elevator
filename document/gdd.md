@@ -141,7 +141,8 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Enorme
   • Justificativa: O público alvo do "game" tem características muito amplas, portanto, fica dificil definir uma estética e uma abordagem a se focar no desenvolvimento para que haja engajamento de todos os usuários.
     
-- Facilidade de acesso para professores.
+  \# | Facilidade de acesso para professores.
+  --- • ---
   • Probabilidade: Provável
   • Impacto: Enorme
   • Justificativa: Tendo em vista que este é o objetivo principal do projeto, acreditamos que criar um jogo de aprendizado intuitivo e que faça com que o usuário memorize os processo de maneira dinâmica seja nossa prioridade.
