@@ -187,10 +187,16 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
 *Exemplo de tabela de requisitos*
 \# | Requisito  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | O jogo precisa ser um "serious game", sem elementos risíveis
+2 | A jogabilidade deve ser em primeira pessoa, com o professor atuando como protagonista da história
+3 | Toda a arte do jogo deve ser baseada na identidade visual da Oracle Academy, incluindo ícones, desenhos e paleta de cores
+4 | Devem haver pelo menos 5 fases no jogo: cadastro, conhecendo a plataforma, canais, cloud e sessão de suporte
+5 | O jogo deve seguir uma estética minimalista e "low-profile", sem muitos detalhes que distraiam o jogador
+6 | O jogador terá que realizar tarefas relacionadas ao assunto da fase para acumular pontos e, assim, passar de fase
+7 | Ao final do jogo, o jogador poderá conquistar um "Badge" que certifica que ele concluiu o jogo 
+8 | As tarefas que o jogador terá que realizar têm que ser engajadoras
+9 | Os movimentos do jogo serão realizados com uma mecânica "point and click"
+10 | A princípio, o jogo deverá ser desenvolvido apenas para Desktop
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
