@@ -104,7 +104,9 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Trivial
 
   • Justificativa: Nós como alunos e desenvolvedores do projeto não teremos acesso à plataforma, por outro lado, haverá um vídeo explicativo das ferramentas oferecidas dentro do site.
-  
+
+  • Plano de ação: Apesar da falta de acesso por nós (alunos) à plataforma, teremos como base os vídeos disponibilizados pela marca para fazer cada etapa do game.
+
 - Baixa otimização.
 
   • Probabilidade: Moderado
@@ -112,6 +114,8 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Moderado
 
   • Justificativa: Por se tratar de um tempo escasso de desenvolvimento de game, o código pode conter trechos redundantes e que poderiam ser escritos de forma mais simplificada.
+
+  • Plano de ação: Caso o a otimização do jogo for baixa em virtude do excesso de assets, código pesado ou qualquer outro motivo, iremos refinar o código e sprites com ajuda dos orientadores. 
   
 - Design desalinhado com a Redwood.
 
@@ -120,14 +124,18 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Grande
 
   • Justificativa: Nosso grupo acredita na importância de seguir a identidade da marca, por isso este desalinhamento é pouquíssimo provável.
-  
+
+  • Plano de ação: Estamos estudando veemente a estrutura de design da marca, construindo texturas dentro da guideline e sprites que compactuam com os formatos da marca.
+
 - Baixa assistência da Marca quanto ao projeto.
 
   • Probabilidade: Raro
 
   • Impacto: Grande
-
+  
   • Justificativa: Tratando-se de um projeto com parceiros e levando em conta já a atenção dada ao projeto, acreditamos que seja raríssima a possibilidade deste acontecimento, caso contrário, teria Grande impacto no desenvolvimento.
+
+  • Plano de ação: Caso a assistência em relação a produção do projeto seja baixa, ainda assim produziremos o game, mas dessa vez baseando-nos somente nas "tasks" principais do documento e as regras a serem seguidas.
 
 - Integração ruim com a plataforma.
 
@@ -136,6 +144,8 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Moderado
 
   • Justificativa: Tendo em vista a falta de conhecimento dos integrantes do grupo em relação ao código por trás da plataforma, fica clara a preocupação quanto à integração do jogo com o website.
+
+  • Plano de ação: Caso haja baixa integração com a plataforma mudaremos o plano de ação para que possamos com amparo do parceiro implementar novas estratégias para melhorar a compatibilidade com a plataforma.
 
    #Oportunidades
 
@@ -178,6 +188,8 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
   • Impacto: Enorme
   
   • Justificativa: Tendo em vista que este é o objetivo principal do projeto, acreditamos que criar um jogo de aprendizado intuitivo e que faça com que o usuário memorize os processo de maneira dinâmica seja nossa prioridade.
+
+
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
