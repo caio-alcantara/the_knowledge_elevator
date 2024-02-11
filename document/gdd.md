@@ -95,56 +95,85 @@ Probabilidade: Raro, Improvável, moderado, Provável, Bastante provável.
 
    #Ameaças
 - Falta de acesso à plataforma para estudo do projeto.
+
   • Probabilidade: Bastante provável
+
   • Impacto: Trivial
+
   • Justificativa: Nós como alunos e desenvolvedores do projeto não teremos acesso à plataforma, por outro lado, haverá um vídeo explicativo das ferramentas oferecidas dentro do site.
   
 - Baixa otimização.
+
   • Probabilidade: Moderado
+
   • Impacto: Moderado
+
   • Justificativa: Por se tratar de um tempo escasso de desenvolvimento de game, o código pode conter trechos redundantes e que poderiam ser escritos de forma mais simplificada.
   
 - Design desalinhado com a Redwood.
+
   • Probabilidade: Improvável
+
   • Impacto: Grande
+
   • Justificativa: Nosso grupo acredita na importância de seguir a identidade da marca, por isso este desalinhamento é pouquíssimo provável.
   
 - Baixa assistência da Marca quanto ao projeto.
+
   • Probabilidade: Raro
+
   • Impacto: Grande
+
   • Justificativa: Tratando-se de um projeto com parceiros e levando em conta já a atenção dada ao projeto, acreditamos que seja raríssima a possibilidade deste acontecimento, caso contrário, teria Grande impacto no desenvolvimento.
 
 - Integração ruim com a plataforma.
+
   • Probabilidade: Moderado
+
   • Impacto: Moderado
+
   • Justificativa: Tendo em vista a falta de conhecimento dos integrantes do grupo em relação ao código por trás da plataforma, fica clara a preocupação quanto à integração do jogo com o website.
 
    #Oportunidades
 
 - Estética compatível com a expectativa da marca.
+
   • Probabilidade: Provável
+
   • Impacto: Grande
+
   • Justificativa: Como citado anteriormente, nosso grupo tem grande preocupação com as regras de identidade visual da marca, e acreditamos ser fundamental para a entrega do projeto.
   
 - Autorização de uso de música pela marca e autor.
+
   • Probabilidade: Moderado
+
   • Impacto: Pequeno
+
   • Justificativa: Ao fazer algumas pesquisas deparamo-nos com uma opção valiosa de trilha sonora para o game, acreditamos que ela entregará a sensação desejada por nós ao usuário (low-profile, Minimalista e confortável).
   
 - Acessibilidade Etária.
+
   • Probabilidade: Provável
+
   • Impacto: Enorme
+
   • Justificativa: Dada a amplitude de faixas etárias que utilizaram o "game" crê-se que seja de enorme importância que tenhamos ferramentas que tornem simples a jornada do usuário independente de sua idade.
   
 - Dinâmica de jogo engajadora.
+
   • Probabilidade: Moderado
+
   • Impacto: Enorme
+
   • Justificativa: O público alvo do "game" tem características muito amplas, portanto, fica dificil definir uma estética e uma abordagem a se focar no desenvolvimento para que haja engajamento de todos os usuários.
-    
-  \# | Facilidade de acesso para professores.
-  --- • ---
+
+- Facilidade de acesso para professores.
+
   • Probabilidade: Provável
+
   • Impacto: Enorme
+  
   • Justificativa: Tendo em vista que este é o objetivo principal do projeto, acreditamos que criar um jogo de aprendizado intuitivo e que faça com que o usuário memorize os processo de maneira dinâmica seja nossa prioridade.
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
