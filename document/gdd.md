@@ -44,11 +44,12 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-A **Oracle Academy**, programa desenvolvido pela Oracle, tem como objetivo **fornecer educação na área de tecnologia**, de maneira gratuita, para alunos e instituições do **mundo inteiro**, fazendo isso por meio do oferecimento de cursos, workshops e materiais de apoio disponibilizados aos professores, que então passam este conteúdo para os seus alunos. O programa Oracle Academy está inserido em um **mercado focado em educação**, que é dinâmico, sempre em constante evolução e com **fortes concorrentes**, tais como a Microsoft Imagine Academy, IBM Skills, Google for Education e AWS Academy. \
-Em suma, a Oracle Academy é uma das **principais players** quando se fala de programas de educação em tecnologia gratuitos e online, abrangendo um **mercado verdadeiramente mundial**, estando presente em diversos países e realizando **parcerias com instituições e organizações** do mundo inteiro. 
+A **Oracle Academy** fornece **educação na área de tecnologia**, gratuitamente, para alunos e instituições **mundialmente**. Cursos, workshops e materiais de apoio são disponibilizados aos professores, que passam este conteúdo para os alunos. A Oracle Academy está inserida em um **mercado de educação**, dinâmico, em constante evolução e com **fortes concorrentes**, como a Microsoft Imagine Academy, IBM Skills e AWS Academy. \
+Em suma, a Oracle Academy é uma das **principais players** quando se fala de programas educativos em tecnologia gratuitos e online, abrangendo um **mercado verdadeiramente global**, presente em diversos países e realizando **parcerias com instituições e organizações** do mundo inteiro. 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
-A Análise SWOT é uma ferramenta que busca realizar um planejamento estratégico onde empresas identificam quais são as suas forças, fraquezas, oportunidades e ameaças, buscando entender os diversos aspectos internos (que podem ser controlados) e aspectos externos (que independem da empresa) que podem impactar o negócio. \
+A Análise SWOT é uma ferramenta que busca realizar um planejamento estratégico onde empresas identificam quais são as suas forças, fraquezas, oportunidades e ameaças, buscando entender os diversos aspectos internos (que podem ser controlados) e aspectos externos (que independem da empresa) que podem impactar o negócio. 
+<br> <br>
 <img src="../assets/SwotAnalysis.png"> 
 
 Ao realizar a Análise SWOT da Oracle Academy, percebemos diversos pontos que devem ser levados em consideração, sendo que um dos principais é a fraqueza relacionada à qualidade visual e a experiência que os usuários têm ao usar a plataforma, problemas não tão fortes em plataformas concorrentes como a IBM Skills e a Microsoft Academy. 
