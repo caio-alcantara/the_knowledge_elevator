@@ -45,32 +45,14 @@
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
 A **Oracle Academy**, programa desenvolvido pela Oracle, tem como objetivo **fornecer educação na área de tecnologia**, de maneira gratuita, para alunos e instituições do **mundo inteiro**, fazendo isso por meio do oferecimento de cursos, workshops e materiais de apoio disponibilizados aos professores, que então passam este conteúdo para os seus alunos. O programa Oracle Academy está inserido em um **mercado focado em educação**, que é dinâmico, sempre em constante evolução e com **fortes concorrentes**, tais como a Microsoft Imagine Academy, IBM Skills, Google for Education e AWS Academy. \
-Em suma, a Oracle Academy é uma das **principais players** quando se fala de programas de educação em tecnologia gratuitos e online, abrangendo um **mercado verdadeiramente mundial**, estando presente em diversos países e realizando **parcerias com instituições e oraganizações** do mundo inteiro. 
+Em suma, a Oracle Academy é uma das **principais players** quando se fala de programas de educação em tecnologia gratuitos e online, abrangendo um **mercado verdadeiramente mundial**, estando presente em diversos países e realizando **parcerias com instituições e organizações** do mundo inteiro. 
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
-
-A Oracle Academy é um programa educacional filantrópico da Oracle, que tem como objetivo promover maior formação tecnológica para pessoas do mundo inteiro. A plataforma oferece uma grande diversidade de recursos de ensino e aprendizado gratuitamente para instituições e professores, a fim de melhor desenvolver alunos com habilidades que sejam relevantes para a sua carreira e o mercado de trabalho. \
 A Análise SWOT é uma ferramenta que busca realizar um planejamento estratégico onde empresas identificam quais são as suas forças, fraquezas, oportunidades e ameaças, buscando entender os diversos aspectos internos (que podem ser controlados) e aspectos externos (que independem da empresa) que podem impactar o negócio. \
-Ao realizar uma análise SWOT da Oracle Academy, foi possível perceber diversos pontos positivos, que podem ser explorados, e pontos negativos, que devem ser corrigidos ou monitorados. 
-
 <img src="../assets/SwotAnalysis.png"> 
 
-1. Na categoria de **"Forças"**, temos: 
-* A Oracle Academy oferece uma certificação oferecida ao concluir cursos e atividades que é reconhecida no mundo todo e possui um grande peso, uma vez que é emitida por uma das maiores empresas de tecnologia do mundo.
-* A plataforma possui um currículo que foca em tecnologias atuais, evitando o estudo de assuntos defasados.
-* A Oracle Academy possui um acordo com o Ministério da Educação, o que certamente não só facilita mas também alavanca a disseminação da plataforma no Brasil. Além disso, a plataforma se faz presente em cursos de pós-graduação que têm caráter profissionalizante. 
-* O uso de recursos da Oracle, uma gigante do setor de tecnologia, que possui recursos avantajados para investir na plataforma.
-2. Como **"Fraquezas"**, foi possível identificar:
-* Hoje, um dos maiores problemas da plataforma é a dificuldade em manter os usuários engajados e fazer com que eles utilizem todos os recursos disponíveis. 
-* Além disso, o fato de que os materiais de estudo estão disponíveis apenas em inglês é um grande dificultador para aqueles que desejam aprender tecnologia mas não falam o idioma.
-* Os aspectos visuais da plataforma, se comparados com as plataformas de grandes concorrentes, como Amazon, Microsoft e IBM não se destacam. Além disso, a experiência do usuário na Oracle Academy por vezes se mostra frustrante, o que motiva consumidores e migrarem para outras plataformas.
-3. No campo de **"Oportunidades"**, notamos:
-* A demanda por educação online e o estudo por tecnologia vêm crescendo muito desde a pandemia de Covid-19.
-* Existem grandes oportunidades de se realizarem parcerias com diversas instituições de ensino, a fim de que a plataforma seja usada diretamente nas escolas parceiras.
-4. Em relação às **"Ameaças"**, destacamos:
-* A falta de tecnologia nas escolas, principalmente aquelas do setor público, pode impedir ou dificultar que a Oracle Academy adentre estes ambientes, uma vez que a plataforma necessita de infrasestruturas básicas, como acesso à internet, que nem sempre estão disponíveis nessas escolas. 
-* Outras fortes concorrentes no mercado, tais como a Microsoft Imagine Academy e a IBM Skills Academy, podem representar ameaças pois são encaradas como competidores diretos de mercado.
-    
+Ao realizar a Análise SWOT da Oracle Academy, percebemos diversos pontos que devem ser levados em consideração, sendo que um dos principais é a fraqueza relacionada à qualidade visual e a experiência que os usuários têm ao usar a plataforma, problemas não tão fortes em plataformas concorrentes como a IBM Skills e a Microsoft Academy. 
+
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
 A Oracle Academy nasceu como uma iniciativa filantrópica através da criação de um programa educacional gratuito. Desse modo, a plataforma oferece recursos para que professores possam aprimorar suas habilidades e promover a educação. Todavia, observa-se que boa parte desses profissionais possui dificuldades em compreender a abrangência dos recursos disponíveis, o que se reflete na baixa do engajamento desses usuários.\
