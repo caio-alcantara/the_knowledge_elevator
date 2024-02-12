@@ -5,8 +5,8 @@
 
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
 
-## The Building
-### The Knowledge Elevator
+## The Knowledge Elevator
+### The Building
 
 #### Nomes dos integrantes do grupo
 - <a href="https://www.linkedin.com/in/caio-de-alcantara-santos-a020921b4/">Caio de Alcantara Santos</a>
