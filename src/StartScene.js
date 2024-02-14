@@ -31,12 +31,27 @@ class StartScene extends Phaser.Scene {
         // var nuvem3 = this.add.image(400, 250, 'nuvem3').setScale(0.3);
         // var nuvem4 = this.add.image(600, 300, 'nuvem4').setScale(0.3);
 
-        mensagem = "Aperte em qualquer lugar para inicar!";
+        mensagem = "Aperte em qualquer lugar para iniciar!";
         index = 0;
         texto = this.add.text(230, 565, '', { fontFamily: 'Arial', fontSize: 20, color: '#ffffff' });
 
+        var blackScreen = this.add.rectangle(0, 0, config.width, config.height, 0xFFFFFF);
+        blackScreen.setOrigin(0, 0);
+
+    // Adicione um tween para fazer o fade in
+        this.tweens.add({
+            delay: 300,
+            targets: blackScreen,
+            alpha: 0, // Defina o valor final de opacidade desejado (0 para totalmente transparente)
+            duration: 3000, // Duração em milissegundos
+            onComplete: function () {
+                // Código a ser executado após o fade in ser concluído
+                blackScreen.destroy(); // Remova o retângulo preto se necessário
+            }
+        });
+
         this.time.addEvent({
-            delay: 3000,  // Atraso em milissegundos antes de começar
+            delay: 4000,  // Atraso em milissegundos antes de começar
             callback: function () {
                 // Use outro cronômetro para adicionar letras ao texto ao longo do tempo
                 this.time.addEvent({
@@ -46,10 +61,6 @@ class StartScene extends Phaser.Scene {
                         texto.text += mensagem[index];
                         index++;
                     },
-                    onComplete: function () {
-                        // Callback opcional quando a digitação estiver concluída
-                        console.log('Animação de digitação concluída');
-                    }
                 });
             },
             callbackScope: this
@@ -58,14 +69,20 @@ class StartScene extends Phaser.Scene {
         passaro1 = this.add.sprite(100, 300, 'passaro').setScale(0.8);
         passaro2 = this.add.sprite(600, 150, 'passaro').setScale(0.4);
         this.anims.create({
-            key: 'fly',
+            key: 'fly1',
             frames: this.anims.generateFrameNumbers('passaro', { start: 0, end: 1 }),
             frameRate: 3,
             repeat: -1
         });
+        this.anims.create({
+            key: 'fly2',
+            frames: this.anims.generateFrameNumbers('passaro', { start: 0, end: 1 }),
+            frameRate: 2,
+            repeat: -1
+        });
 
-        passaro1.anims.play('fly', true);
-        passaro2.anims.play('fly', true);
+        passaro1.anims.play('fly1', true);
+        passaro2.anims.play('fly2', true);
 
         predio.setDepth(2);
         porta.setDepth(3);
@@ -73,6 +90,7 @@ class StartScene extends Phaser.Scene {
         nuvem2.setDepth(1);
         passaro1.setDepth(3);
         logo.setDepth(3);
+        blackScreen.setDepth(4);
         // nuvem3.setDepth(1);
         // nuvem4.setDepth(1);
 
@@ -80,7 +98,7 @@ class StartScene extends Phaser.Scene {
             targets: logo,
             y: '+=40',
             duration: 3000,
-            delay: 3000,
+            delay: 4000,
             ease: 'Bounce',
             alpha: 1,
         });

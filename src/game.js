@@ -1,8 +1,7 @@
 const config = {
     type: Phaser.AUTO,
     width: 800, // Resolução 4:3
-    height: 600,
-    backgroundColor: "#F5F5F5",
+    height: 600,    
     
     scene: [StartScene], // Por enquanto, só possuímos uma cena
 };
