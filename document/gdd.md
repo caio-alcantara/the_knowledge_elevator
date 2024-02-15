@@ -349,11 +349,11 @@ Tela inicial do jogo
 <br><br>
 A maior dificuldade que tivemos foi com os aspectos de design e de criação de elementos para a tela inicial que seguisse a identidade visual da Oracle Academy. Depois de ter as artes prontas, o processo de "colocar tudo na tela" e fazer as animações foi relativamente simples e feito em cerca de um dia. <br><br>
 Dando seguimento ao desenvolvimento do jogo, pretendemos adicionar: <br> 
-- A funcionalidade de o jogo iniciar assim que o jogador clicar em qualquer lugar da tela
-- A animação da start do jogo 
-- Implementar pelo menos duas cenas funcionando (com elementos gráficos e mecânicas)
-- Animar a vegetação, a logo e o texto da tela inicial
-- Publicar o projeto no GitHub Pages
+- A funcionalidade de o jogo iniciar assim que o jogador clicar em qualquer lugar da tela \
+- A animação da start do jogo \
+- Implementar pelo menos duas cenas funcionando (com elementos gráficos e mecânicas) \
+- Animar a vegetação, a logo e o texto da tela inicial \
+- Publicar o projeto no GitHub Pages \
 
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
