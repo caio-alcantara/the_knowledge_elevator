@@ -65,6 +65,8 @@ Logo, o critério de sucesso será feito através do controle de utilização do
 
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
+<img src="../assets/vpc.png"> <br>
+
 
 *Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
 
