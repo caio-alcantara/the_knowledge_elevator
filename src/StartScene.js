@@ -6,10 +6,10 @@ class StartScene extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('background', '../../assets/ceu_e_chao.png');
-        this.load.image('predio', '../../assets/predio_sem_porta.png');
-        this.load.image('porta', '../../assets/porta_fechada.png');
-        this.load.image('logo', '../../assets/logoFinal.png');
+        this.load.image('background', '../docs/assets/ceu_e_chao.png');
+        this.load.image('predio', '../docs/assets/predio_sem_porta.png');
+        this.load.image('porta', '../docs/assets/porta_fechada.png');
+        this.load.image('logo', '../docs/assets/logoFinal.png');
         // Nuvens
         this.load.image('nuvem1', '../assets/nuvem1.png');
         this.load.image('nuvem2', '../assets/nuvem2.png');
