@@ -41,7 +41,7 @@ class StartScene extends Phaser.Scene {
 
         mensagem = "Aperte em qualquer lugar para iniciar!";
         index = 0;
-        texto = this.add.text(230, 565, '', { fontFamily: 'Arial', fontSize: 20, color: '#ffffff' });
+        texto = this.add.text(220, 565, '', { fontFamily: 'Trebuchet MS', fontSize: 20, color: '#ffffff' });
 
         var blackScreen = this.add.rectangle(0, 0, config.width, config.height, 0xFFFFFF);
         blackScreen.setOrigin(0, 0);
@@ -58,6 +58,7 @@ class StartScene extends Phaser.Scene {
             }
         });
 
+        
         this.time.addEvent({
             delay: 4000,  // Atraso em milissegundos antes de começar
             callback: function () {
@@ -135,7 +136,9 @@ class StartScene extends Phaser.Scene {
             passaro2.x = 900;
         }
 
+
         
+
     }
     
 }
