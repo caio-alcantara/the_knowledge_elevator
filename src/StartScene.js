@@ -1,4 +1,4 @@
-var backgorund, predio, porta, nuvem1, nuvem2, passaro1, passaro2, logo, texto, mensagem, index;
+var backgorund, predio, porta, nuvem1, nuvem2, passaro1, passaro2, logo, texto, mensagem, index, musica;
 
 class StartScene extends Phaser.Scene {
     constructor() {
@@ -18,9 +18,17 @@ class StartScene extends Phaser.Scene {
 
         // Passaro
         this.load.spritesheet('passaro', '../assets/BirdSpritesheet.png', { frameWidth: 81, frameHeight: 76 });
+
+        // Musica
+        this.load.audio('musica', '../assets/the-process.mp3');
     }
 
     create() {
+        musica = this.sound.add("musica");
+        musica.volume = 0.1;
+        musica.loop = true;
+        musica.play();
+
         backgorund = this.add.image(400, 300, 'background').setScale(0.6);
         predio = this.add.image(395, 270, 'predio').setScale(0.4);
         porta = this.add.image(395, 420, 'porta').setScale(0.15);
