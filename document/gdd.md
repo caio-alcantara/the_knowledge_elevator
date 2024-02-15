@@ -340,8 +340,10 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 Para a primeira sprint, entregamos a cena inicial do jogo. Em termos de código, criamos os arquivos iniciais, tais como o index.html e os arquivos JavaScript do jogo em si. Além disso, programamos a tela inicial, adicionando a ela todos os assets que produzimos à mão seguindo o padrão Redwood, bem como animamos elementos como nuvens e pássaros, que configuravam um dos requisitos da entrega do artefato. 
 
 <img src='../assets/snapshot-preload.png'>
+Parte do código, mostrando a criação da tela inicial e o carregamento de alguns assets
 <br><br>
 <img src='../assets/total.png'>
+Tela inicial do jogo
 
 *Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
 
