@@ -6,7 +6,7 @@ class StartScene extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('background', '../assets/ceu_e_chao.png');
+        this.load.image('background', 'The Knowledge Elevator/assets/ceu_e_chao.png');
         this.load.image('predio', '../assets/predio_sem_porta.png');
         this.load.image('porta', '../assets/porta_fechada.png');
         this.load.image('logo', '../assets/logoFinal.png');
