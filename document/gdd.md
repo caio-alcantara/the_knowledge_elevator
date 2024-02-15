@@ -344,8 +344,10 @@ Parte do código, mostrando a criação da tela inicial e o carregamento de algu
 <br><br>
 <img src='../assets/total.png'>
 Tela inicial do jogo
+<br><br>
+A maior dificuldade que tivemos foi com os aspectos de design e de criação de elementos para a tela inicial que seguisse a identidade visual da Oracle Academy. Depois de ter as artes prontas, o processo de "colocar tudo na tela" e fazer as animações foi relativamente simples e feito em cerca de um dia.
+Dando seguimento ao desenvolvimento do jogo, pretendemos adicionar:
 
-*Descreva e ilustre aqui o desenvolvimento da sua primeira versão do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
