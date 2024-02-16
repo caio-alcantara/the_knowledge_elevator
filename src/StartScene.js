@@ -32,7 +32,7 @@ class StartScene extends Phaser.Scene {
 
         backgorund = this.add.image(400, 300, 'background').setScale(0.6);
         predio = this.add.image(395, 270, 'predio').setScale(0.4);
-        porta = this.add.image(395, 420, 'porta').setScale(0.15);
+        porta = this.add.image(395, 420, 'porta').setScale(0.15); // Separamos a porta do prédio para que ela possa ser animada
         logo = this.add.image(400, 200, 'logo').setScale(0.35);
         logo.setAlpha(0); // Deixa o logo invisível para fazer o efeito fade in
         nuvem1 = this.add.image(640, 240, 'nuvem1').setScale(0.35);
