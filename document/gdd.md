@@ -68,7 +68,8 @@ Logo, o critério de sucesso será feito através do controle de utilização do
 <img src="../assets/vpc.png"> <br>
 
 
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
+O VPC ferramenta utilizada para ajudar empresas a compreenderem melhor as necessidades e desejos de seus clientes, assim como para desenvolver propostas de valor que atendam a essas necessidades de forma eficaz.
+Ao avaliar o VPC da Oracle Academy, identificamos uma preocupação significativa relacionada à experiência visual e usabilidade da plataforma. 
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 
